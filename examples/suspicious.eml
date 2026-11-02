@@ -1,0 +1,10 @@
+From: Account Support <support@example.com>
+Reply-To: help@example.net
+To: learner@example.org
+Subject: Urgent: account suspended
+MIME-Version: 1.0
+Content-Type: text/html; charset=utf-8
+
+<html><body><p>Act now. Confirm your password immediately.</p>
+<a href="http://192.0.2.10/login">https://example.com/login</a>
+</body></html>
